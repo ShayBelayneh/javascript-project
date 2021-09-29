@@ -1,0 +1,294 @@
+
+body {
+
+min-height: 100vh;
+width: 100vw;
+overflow-x: hidden;
+
+}
+
+
+#ulOne {
+
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    /* background-color: rgba(196, 193, 193, 0.993); */
+    color: black;
+    font-family: cursive;
+    background-color: rgba(238, 236, 236, 0.993);
+
+
+}
+
+#sectionOne img {
+
+    float: right;
+    position: relative;
+    top: 70px;
+    right: 200px;
+    height: 400px;
+    
+    
+
+}
+
+
+
+#sectionOne {
+
+    background-color:lightblue;
+    height: 500px;
+    font-family: cursive;
+    
+
+}
+
+#divOne {
+
+    position:absolute;
+    top: 200px;
+    left: 100px;
+}
+
+#firstCart {
+
+    padding: 8px;
+    background-color: rgb(22, 22, 22);
+    color: white; 
+    width: 100px;
+
+
+
+}
+
+#firstCart a {
+
+    text-decoration: none;
+    color: white;
+}
+
+#firstCart a:hover {
+
+    color: black;
+}
+
+#firstCart:hover {
+    background-color: white;
+  color: black;
+
+}
+
+
+.imgClass {
+
+width: 130px;
+display: flex;
+flex-direction: row;
+
+
+}
+
+/* #sectionTwo {
+
+    background-color: rgba(238, 236, 236, 0.993);
+    display: grid;
+    gap: 1px;
+    /* grid-template-columns: 70% 30%; */
+    
+
+
+/* } */ 
+
+.divTwo {
+
+background-color: rgba(238, 236, 236, 0.993);
+width: 300px;
+
+
+}
+
+
+
+#h3First {
+
+text-align: center;
+position: relative;
+bottom: 30px;
+
+}
+
+
+
+
+
+#paraBest {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+#buttonArrange {
+display: flex;
+
+justify-content: space-between;
+
+position: relative;
+left: 100px;
+top:0px;
+
+}
+
+
+#buttonArrange button {
+
+    clip-path: circle(80%);
+    
+    
+
+}
+
+
+#ulOne li a  {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.navPicture {
+
+width: 30px;
+
+
+}
+
+
+#divArticle {
+
+border-radius: 6px;
+box-shadow: 2px 2px 2px grey;
+
+}
+
+
+#divBackground  {
+
+    background-color: grey;
+    
+    
+       }
+
+
+       #footer {
+
+        background-color: rgba(238, 236, 236, 0.993);
+         text-align:center ;
+         position: relative;
+         top: 30px;
+       }
+
+       
+#ulOne li :hover {
+
+    transition: 1s;
+    width: 35px;
+    
+    }
+    
+
+    .buttonBest {
+
+
+background-color: lightblue;
+
+
+
+    }
+
+    .logoPicture {
+
+        width: 30px;
+    }
+
+    #secondCart {
+
+        padding: 8px;
+        background-color: rgb(22, 22, 22);
+        color: white; 
+        width: 100px;
+    
+    
+    
+    }
+    
+    #secondCart a {
+    
+        text-decoration: none;
+        color: white;
+    }
+    
+    #secondCart a:hover {
+    
+        color: black;
+    }
+    
+    #secondCart:hover {
+        background-color: white;
+      color: black;
+    
+    }
+
+
+    /* @media (max-width:1100px) {
+
+body {
+
+  width: 900px;
+
+
+    }
+
+} */
+
+
+#buttonBest {
+
+position: relative;
+right: 35px;
+    
+} 
+
+
+#buttonBest2 {
+
+position: relative;
+right: 55px;
+
+
+}
+
+
+#buttonBest3 {
+
+position: relative;
+right: 60px;
+
+
+}
+
+
+#buttonBest4 {
+
+position: relative;
+right: 40px;
+
+}
+
+/* ::-webkit-scrollbar {
+
+    display: none;
+} */
